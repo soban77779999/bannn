@@ -1,5 +1,3 @@
-# bannn
-file:///C:/Users/Soban/Desktop/HTML/HTML109.html
 <!DOCTYPE html>
 <html>
 <head>
